@@ -12,7 +12,7 @@ on building communities and helping people build awesome stuff.
 ### Ask a question
 
 Asking a question is as easy as
-[creating a new issue](https://github.com/imrehgholman/ama/issues/new) on this project.
+[creating a new issue](https://github.com/imrehg/ama/issues/new) on this project.
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
 issue just so I know what I've covered, but don't worry - if you have any further
